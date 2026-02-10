@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "eventName": "INTEGRA 2026",
+    "dateLocation": "15 a 17 de Agosto • São Paulo, Brasil",
+    "heroText": "Um encontro institucional para líderes, especialistas e parceiros discutirem inovação, impacto e colaboração.",
+    "logoUrl": "",
+    "bannerUrl": ""
+  },
+  "agenda": [
+    {
+      "id": "a1",
+      "time": "09:00",
+      "title": "Abertura oficial",
+      "description": "Boas-vindas e visão estratégica do evento.",
+      "speakers": "Comissão organizadora",
+      "order": 1
+    }
+  ],
+  "speakers": [
+    {
+      "id": "s1",
+      "name": "Marina Lopes",
+      "bio": "Executiva de inovação com 12 anos de experiência em transformação digital.",
+      "role": "Diretora de Inovação",
+      "social": "https://www.linkedin.com",
+      "photoUrl": ""
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "p1",
+      "name": "Patrocinador Exemplo",
+      "category": "Patrocinador Ouro",
+      "link": "https://example.com",
+      "logoUrl": ""
+    }
+  ],
+  "submissions": []
+}
